@@ -1,0 +1,848 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260521210157ES0759</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260521210157YT2IT8</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>PROYECTO FINAL</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>CUENTO</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Carmen Rodríguez Mellado</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>En este proyecto descubriremos cómo se sienten los personajes de distintos cuentos y aprenderemos a reconocer, expresar y comprender nuestras emociones a través de la lectura, el juego y actividades creativas. Trabajaremos juntos para desarrollar la empatía, la comunicación y el respeto hacia los demás.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1779361031604</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>c991e7fe-e2a4-4a0b-b1ba-1f2b8eea4391</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>BIENVENIDOS/AS</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>BIENVENIDOS/AS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>BIENVENIDOS/AS</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>c991e7fe-e2a4-4a0b-b1ba-1f2b8eea4391</odePageId>
+      <odeBlockId>block-1779362130893-r55vuoybp</odeBlockId>
+      <blockName>CUENTO &quot;YO TAMBIÉN MATARÉ MONSTRUOS POR TI&quot;</blockName>
+      <iconName>present</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>c991e7fe-e2a4-4a0b-b1ba-1f2b8eea4391</odePageId>
+          <odeBlockId>block-1779362130893-r55vuoybp</odeBlockId>
+          <odeIdeviceId>idevice-1779362130885-x2aog46ak</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1779362130885-x2aog46ak" title="" href="{{context_path}}/content/resources/Captura de pantalla 2026-05-21 a las 13.15.06.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Captura de pantalla 2026-05-21 a las 13.15.06.png" height="128" width="128" title="" alt="" titlelink="" author="Carmen Rodríguez Mellado" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779362130885-x2aog46ak","img_0":{"img":"{{context_path}}/content/resources/Captura de pantalla 2026-05-21 a las 13.15.06.png","thumbnail":"{{context_path}}/content/resources/Captura de pantalla 2026-05-21 a las 13.15.06.png","title":"","linktitle":"","author":"Carmen Rodríguez Mellado","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>c991e7fe-e2a4-4a0b-b1ba-1f2b8eea4391</odePageId>
+      <odeBlockId>block-1779362157506-joyfcki36</odeBlockId>
+      <blockName>Carmen Rodríguez Mellado</blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>c991e7fe-e2a4-4a0b-b1ba-1f2b8eea4391</odePageId>
+          <odeBlockId>block-1779362157506-joyfcki36</odeBlockId>
+          <odeIdeviceId>idevice-1779362157504-5eoh0kh00</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>¡Hola chicos y chicas! 👋🏼</p>
+<p>Hoy comenzamos un viaje muy especial... Un viaje por el mundo de las emociones. Vamos a descubrir juntas y juntos qué sentimos cuando tenemos miedo, cómo podemos enfrentarlo y, lo más importante... ¡que no estamos solos ni solas!</p>
+<p>A lo largo de varias semanas, con la ayuda de cuentos, juegos, dibujos y muchas actividades divertidas, vamos a conocer mejor lo que sentimos, a compartirlo con los demás y a aprender a ser valientes, como los protagonistas de nuestro cuento.</p>
+<p>👾 ¿Has sentido alguna vez que hay un monstruo bajo la cama?<br />🎨 ¿Te gustaría dibujar tu miedo para que deje de dar miedo?<br />🧩 ¿Y crear un juego para ayudar a los demás a entender cómo te sientes?</p>
+<p>¡Pues eso es justo lo que haremos!<br />Trabajaremos en equipo, aprenderemos jugando y crearemos un dosier lleno de actividades hechas por vosotros y vosotras, ¡porque sois verdaderos artistas de las emociones! 🎨📘💬</p>
+<p><br />🌟 Aquí, cada emoción es bienvenida. Cada idea es importante. Y cada uno de vosotros tiene un lugar especial en esta aventura. 🌟</p>
+<p>🦸‍♀️🦸‍♂️ Porque al final, todos juntos, también diremos con fuerza...</p>
+<p>¡Yo también mataré monstruos por ti!</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779362157504-5eoh0kh00","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>¡Hola chicos y chicas! 👋🏼</p>\n<p>Hoy comenzamos un viaje muy especial... Un viaje por el mundo de las emociones. Vamos a descubrir juntas y juntos qué sentimos cuando tenemos miedo, cómo podemos enfrentarlo y, lo más importante... ¡que no estamos solos ni solas!</p>\n<p>A lo largo de varias semanas, con la ayuda de cuentos, juegos, dibujos y muchas actividades divertidas, vamos a conocer mejor lo que sentimos, a compartirlo con los demás y a aprender a ser valientes, como los protagonistas de nuestro cuento.</p>\n<p>👾 ¿Has sentido alguna vez que hay un monstruo bajo la cama?<br />🎨 ¿Te gustaría dibujar tu miedo para que deje de dar miedo?<br />🧩 ¿Y crear un juego para ayudar a los demás a entender cómo te sientes?</p>\n<p>¡Pues eso es justo lo que haremos!<br />Trabajaremos en equipo, aprenderemos jugando y crearemos un dosier lleno de actividades hechas por vosotros y vosotras, ¡porque sois verdaderos artistas de las emociones! 🎨📘💬</p>\n<p><br />🌟 Aquí, cada emoción es bienvenida. Cada idea es importante. Y cada uno de vosotros tiene un lugar especial en esta aventura. 🌟</p>\n<p>🦸‍♀️🦸‍♂️ Porque al final, todos juntos, también diremos con fuerza...</p>\n<p>¡Yo también mataré monstruos por ti!</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779361626178-618rk4w8a</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>1. INTRODUCCIÓN</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. INTRODUCCIÓN</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779361626178-618rk4w8a</odePageId>
+      <odeBlockId>block-1779362568261-hrxxyo6c4</odeBlockId>
+      <blockName>1. INTRODUCCIÓN</blockName>
+      <iconName>video</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779361626178-618rk4w8a</odePageId>
+          <odeBlockId>block-1779362568261-hrxxyo6c4</odeBlockId>
+          <odeIdeviceId>idevice-1779362568258-ffqv2bz31</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>🎨✨ ¡Bienvenidos y bienvenidas a una aventura muy especial! ✨🎨  </p>
+<p><br />📚 Situación de aprendizaje: “Yo también mataré monstruos por ti”</p>
+<p><br />👦🏻👧🏽 Curso: 2º de Educación Primaria</p>
+<p><br />🕒 Duración: 1 sesión a la semana durante 8 semanas</p>
+<p></p>
+<p><img src="{{context_path}}/content/resources/Captura de pantalla 2026-05-21 a las 13.25.33.png" title="Deja volar tu imaginación a través de los cuentos y florecerás" width="144" height="130" alt="Icono conjunto de libros " /></p>
+<p></p>
+<p>ENLACE PDF CUENTO: <a href="https://online.fliphtml5.com/aeqdl/fvoc/#p=1">https://online.fliphtml5.com/aeqdl/fvoc/#p=1</a></p>
+<p>💬 ¿Alguna vez has sentido miedo? ¿Ese cosquilleo raro en la barriga cuando apagas la luz por la noche, o cuando no sabes qué va a pasar? ¡No te preocupes! Todos sentimos miedo alguna vez... ¡hasta los monstruos! 👾💗</p>
+<p>Durante estas semanas, vamos a embarcarnos en un viaje lleno de emociones donde el protagonista serás TÚ. A través del cuento "Yo también mataré monstruos por ti", descubriremos que el miedo no tiene por qué ser tan terrible, y que a veces, solo necesita un poquito de comprensión... ¡y mucho cariño! 🧸🌈</p>
+<p></p>
+<p>Qué haremos?<br />🖍️ Dibujaremos nuestros miedos.<br />🎭 Hablaremos sobre cómo nos sentimos.<br />🧠 Jugaremos para trabajar nuestra atención, memoria y razonamiento.<br />💬 Escucharemos con respeto y hablaremos en grupo.<br />🤝 Y lo más importante... ¡nos ayudaremos entre todos a comprender lo que sentimos!</p>
+<p><br />¿Cómo lo vamos a hacer?<br />Usaremos juegos, estaciones de aprendizaje, cuentos, imágenes, colores, y lo que más nos gusta: ¡la imaginación! 🧩🎨</p>
+<p>Cada semana viviremos una pequeña aventura juntos. Al final, crearemos un gran mural de emociones, donde podrás contar cómo te sientes, cómo enfrentas tus miedos, y compartirlo con tus amigos y amigas del aula. 🖼️💖</p>
+<p><br />💡 ¡Recuerda!<br />✨ Las emociones no son buenas ni malas, ¡solo hay que aprender a conocerlas!<br />✨ No estás solo/a, todos estamos aquí para apoyarte.<br />✨ Y sí... ¡juntos también mataremos monstruos! 🦸‍♀️🦸‍♂️</p>
+<p><br />📌 Este proyecto también está pensado para que todos y todas aprendamos de forma especial, teniendo en cuenta a nuestros compañeros y compañeras, para que aprendamos juntos a respetarnos, ayudarnos y crecer como un gran equipo.</p>
+<p><br />🌟 ¿Estás listo/a para empezar? ¡Pues allá vamos! 🌟<br />📖❤️ Yo también mataré monstruos por ti... ¿y tú?</p>
+<p>A continuación, os dejo el enlace de una infografía de línea temporal, para que acceda y visualice de forma visual las tareas que tenemos que realizar.</p>
+<p>Enlace: <a href="https://drive.google.com/file/d/1ktIkCsjDuee15rMQKcjwajOJKgmOBvoF/view?usp=drive_link">https://drive.google.com/file/d/1ktIkCsjDuee15rMQKcjwajOJKgmOBvoF/view?usp=drive_link</a></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779362568258-ffqv2bz31","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>🎨✨ ¡Bienvenidos y bienvenidas a una aventura muy especial! ✨🎨  </p>\n<p><br />📚 Situación de aprendizaje: “Yo también mataré monstruos por ti”</p>\n<p><br />👦🏻👧🏽 Curso: 2º de Educación Primaria</p>\n<p><br />🕒 Duración: 1 sesión a la semana durante 8 semanas</p>\n<p></p>\n<p><img src=\"{{context_path}}/content/resources/Captura de pantalla 2026-05-21 a las 13.25.33.png\" title=\"Deja volar tu imaginación a través de los cuentos y florecerás\" width=\"144\" height=\"130\" alt=\"Icono conjunto de libros \" /></p>\n<p></p>\n<p>ENLACE PDF CUENTO: <a href=\"https://online.fliphtml5.com/aeqdl/fvoc/#p=1\">https://online.fliphtml5.com/aeqdl/fvoc/#p=1</a></p>\n<p>💬 ¿Alguna vez has sentido miedo? ¿Ese cosquilleo raro en la barriga cuando apagas la luz por la noche, o cuando no sabes qué va a pasar? ¡No te preocupes! Todos sentimos miedo alguna vez... ¡hasta los monstruos! 👾💗</p>\n<p>Durante estas semanas, vamos a embarcarnos en un viaje lleno de emociones donde el protagonista serás TÚ. A través del cuento \"Yo también mataré monstruos por ti\", descubriremos que el miedo no tiene por qué ser tan terrible, y que a veces, solo necesita un poquito de comprensión... ¡y mucho cariño! 🧸🌈</p>\n<p></p>\n<p>Qué haremos?<br />🖍️ Dibujaremos nuestros miedos.<br />🎭 Hablaremos sobre cómo nos sentimos.<br />🧠 Jugaremos para trabajar nuestra atención, memoria y razonamiento.<br />💬 Escucharemos con respeto y hablaremos en grupo.<br />🤝 Y lo más importante... ¡nos ayudaremos entre todos a comprender lo que sentimos!</p>\n<p><br />¿Cómo lo vamos a hacer?<br />Usaremos juegos, estaciones de aprendizaje, cuentos, imágenes, colores, y lo que más nos gusta: ¡la imaginación! 🧩🎨</p>\n<p>Cada semana viviremos una pequeña aventura juntos. Al final, crearemos un gran mural de emociones, donde podrás contar cómo te sientes, cómo enfrentas tus miedos, y compartirlo con tus amigos y amigas del aula. 🖼️💖</p>\n<p><br />💡 ¡Recuerda!<br />✨ Las emociones no son buenas ni malas, ¡solo hay que aprender a conocerlas!<br />✨ No estás solo/a, todos estamos aquí para apoyarte.<br />✨ Y sí... ¡juntos también mataremos monstruos! 🦸‍♀️🦸‍♂️</p>\n<p><br />📌 Este proyecto también está pensado para que todos y todas aprendamos de forma especial, teniendo en cuenta a nuestros compañeros y compañeras, para que aprendamos juntos a respetarnos, ayudarnos y crecer como un gran equipo.</p>\n<p><br />🌟 ¿Estás listo/a para empezar? ¡Pues allá vamos! 🌟<br />📖❤️ Yo también mataré monstruos por ti... ¿y tú?</p>\n<p>A continuación, os dejo el enlace de una infografía de línea temporal, para que acceda y visualice de forma visual las tareas que tenemos que realizar.</p>\n<p>Enlace: <a href=\"https://drive.google.com/file/d/1ktIkCsjDuee15rMQKcjwajOJKgmOBvoF/view?usp=drive_link\">https://drive.google.com/file/d/1ktIkCsjDuee15rMQKcjwajOJKgmOBvoF/view?usp=drive_link</a></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779361644917-hzxbu70qp</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>2. SESIONES/TAREAS A REALIZAR</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. SESIONES/TAREAS A REALIZAR</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779361644917-hzxbu70qp</odePageId>
+      <odeBlockId>block-1779363451352-bkoz2ed15</odeBlockId>
+      <blockName>2. SESIONES/TAREAS A REALIZAR</blockName>
+      <iconName>guide</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779361644917-hzxbu70qp</odePageId>
+          <odeBlockId>block-1779363451352-bkoz2ed15</odeBlockId>
+          <odeIdeviceId>idevice-1779363451350-b69cv2vak</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;">ACTIVIDADES: </p>
+<p style="text-align: center;"><img src="{{context_path}}/content/resources/Captura de pantalla 2026-05-21 a las 13.40.32.png" width="614" height="584" alt="" /></p>
+<p style="text-align: center;"></p>
+<p style="text-align: justify;"><strong>SESIÓN 1: </strong>"Escucha activa del cuento". En gran grupo se hace una lectura del cuento por parte de la docente. Se realizará en multiformato, teniendo en cuenta el DUA. Por ello se hace una lectura en voz alta, la visualización del pictocuento y el audiocuento. La actividad se acompaña de una guía de pasos para el fomento de la escucha activa. <br /><strong>SESIÓN 2:</strong> "Lectura individual". Cada alumno elige en qué formato quiere hacer la lectura del cuento. Hay que decir que también se incluye la adaptación del cuento a lectura fácil. <br /><strong>SESIÓN 3:</strong> Ficha de comprensión lectora. Se realiza en formato multinivel para que cada alumno elija el nivel que considere oportuno.<br /><strong>SESIÓN 4:</strong> Estaciones de Aprendizaje. Cada grupo de alumnos elije qué actividad quiere realizar de acuerdo con el contenido del cuento. Puede ser un juego de parejas, laberintos, encontrar las diferencias, un autodictado u ordenar una secuencia de imágenes relacionadas con el cuento. <br /><strong>SESIÓN 5:</strong> realización de las diferentes estaciones de aprendizaje <br /><strong>SESIÓN 6:</strong> Recoger información del cuento y análisis de datos en equipos <br /><strong>SESIÓN 7:</strong> Preparación de la exposición <br /><strong>SESIÓN 8:</strong> Exposición en grupos del trabajo realizado.</p>
+<p style="text-align: justify;">A continuación, os comparto el enlace <a href="https://docs.google.com/document/d/1ic0-pNoIr9ROd0S3zgFciVfDjYB2u00T/edit?usp=drive_link&amp;ouid=105050846415613866425&amp;rtpof=true&amp;sd=true">https://docs.google.com/document/d/1ic0-pNoIr9ROd0S3zgFciVfDjYB2u00T/editusp=drive_link&amp;ouid=105050846415613866425&amp;rtpof=true&amp;sd=true </a>con el documento "curación de contenido" para cualquier consulta. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779363451350-b69cv2vak","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\">ACTIVIDADES: </p>\n<p style=\"text-align: center;\"><img src=\"{{context_path}}/content/resources/Captura de pantalla 2026-05-21 a las 13.40.32.png\" width=\"614\" height=\"584\" alt=\"\" /></p>\n<p style=\"text-align: center;\"></p>\n<p style=\"text-align: justify;\"><strong>SESIÓN 1: </strong>\"Escucha activa del cuento\". En gran grupo se hace una lectura del cuento por parte de la docente. Se realizará en multiformato, teniendo en cuenta el DUA. Por ello se hace una lectura en voz alta, la visualización del pictocuento y el audiocuento. La actividad se acompaña de una guía de pasos para el fomento de la escucha activa. <br /><strong>SESIÓN 2:</strong> \"Lectura individual\". Cada alumno elige en qué formato quiere hacer la lectura del cuento. Hay que decir que también se incluye la adaptación del cuento a lectura fácil. <br /><strong>SESIÓN 3:</strong> Ficha de comprensión lectora. Se realiza en formato multinivel para que cada alumno elija el nivel que considere oportuno.<br /><strong>SESIÓN 4:</strong> Estaciones de Aprendizaje. Cada grupo de alumnos elije qué actividad quiere realizar de acuerdo con el contenido del cuento. Puede ser un juego de parejas, laberintos, encontrar las diferencias, un autodictado u ordenar una secuencia de imágenes relacionadas con el cuento. <br /><strong>SESIÓN 5:</strong> realización de las diferentes estaciones de aprendizaje <br /><strong>SESIÓN 6:</strong> Recoger información del cuento y análisis de datos en equipos <br /><strong>SESIÓN 7:</strong> Preparación de la exposición <br /><strong>SESIÓN 8:</strong> Exposición en grupos del trabajo realizado.</p>\n<p style=\"text-align: justify;\">A continuación, os comparto el enlace <a href=\"https://docs.google.com/document/d/1ic0-pNoIr9ROd0S3zgFciVfDjYB2u00T/edit?usp=drive_link&amp;ouid=105050846415613866425&amp;rtpof=true&amp;sd=true\">https://docs.google.com/document/d/1ic0-pNoIr9ROd0S3zgFciVfDjYB2u00T/editusp=drive_link&amp;ouid=105050846415613866425&amp;rtpof=true&amp;sd=true </a>con el documento \"curación de contenido\" para cualquier consulta. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779363991387-n8k06t1f4</odePageId>
+  <odeParentPageId>page-1779361644917-hzxbu70qp</odeParentPageId>
+  <pageName>ACTIVIDADES DE VERDADERO O FALSO RELACIONADAS CON LA LECTURA</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>ACTIVIDADES DE VERDADERO O FALSO RELACIONADAS CON LA LECTURA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779363991387-n8k06t1f4</odePageId>
+      <odeBlockId>block-1779364456976-tbbf5fr35</odeBlockId>
+      <blockName>Verdadero o falso</blockName>
+      <iconName>think</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779363991387-n8k06t1f4</odePageId>
+          <odeBlockId>block-1779364456976-tbbf5fr35</odeBlockId>
+          <odeIdeviceId>idevice-1779364456974-d5ondqfm1</odeIdeviceId>
+          <odeIdeviceTypeName>trueorfalse</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-trueorfalse-container">
+  
+    <div class="game-evaluation-ids js-hidden" data-id="idevice-1779364456974-d5ondqfm1" data-evaluationb="false" data-evaluationid=""></div>
+        <div class="TOFP-instructions"><p>Responde todas las preguntas del cuestionario.</p></div>
+        <div class="TOFP-MainContainer" data-instance="idevice-1779364456974-d5ondqfm1" id="tofPMainContainer-idevice-1779364456974-d5ondqfm1">
+            <div class="TOFP-GameContainer" id="tofPGameContainer-idevice-1779364456974-d5ondqfm1">
+                <div class="TOFP-GameScoreBoard TOFP-EHidden">
+                    <div class="TOFP-TimeNumber">
+                        <strong><span class="sr-av">Tiempo por pregunta:</span></strong>
+                        <p id="tofPPTime-idevice-1779364456974-d5ondqfm1" class="TOFP-PTime">00:00:</p>
+                    </div>
+                </div>
+                <div class="TOFP-MessgeDiv" id="tofPMessageDiv-idevice-1779364456974-d5ondqfm1">
+                    <div class="TOFP-Message" id="tofPMessage-idevice-1779364456974-d5ondqfm1"></div>
+                </div>
+                <div class="TOFP-StartGameDiv TOFP-EHidden" id="tofPStartGameDiv-idevice-1779364456974-d5ondqfm1">
+                    <button  id="tofPStartGame-idevice-1779364456974-d5ondqfm1" type="button" class="btn btn-primary">Pulsa aquí para empezar</button>
+                </div>
+                <div class="TOFP-Multimedia " id="tofPMultimedia-idevice-1779364456974-d5ondqfm1">
+                </div>
+                <div class="TOFP-CheckTestDiv TOFP-EHidden" id="tofPCheckTestDiv-idevice-1779364456974-d5ondqfm1">
+                    <button id="tofPCheckTest-idevice-1779364456974-d5ondqfm1" type="button" class="btn btn-primary">Comprobar</button>
+                    <button id="tofRebootTest-idevice-1779364456974-d5ondqfm1" type="button" class="btn btn-primary TOFP-EHidden">¡Prueba otra vez!</button>
+                </div>
+        </div> 
+        <div class="Games-BottonContainer">
+            <div class="Games-GetScore">
+                <input id="tofPSendScore-idevice-1779364456974-d5ondqfm1" type="button" value="Guardar la puntuación" class="feedbackbutton Games-SendScore" style="display:none"/> <span class="Games-RepeatActivity"></span>
+            </div>
+        </div>
+        <div class="TOFP-After"></div>
+        <div class="questionsMedia" style="display:none"></div>
+</div>
+]]></htmlView>
+          <jsonProperties><![CDATA[{"id":"idevice-1779364456974-d5ondqfm1","typeGame":"TrueOrFalse","eXeGameInstructions":"<p>Responde todas las preguntas del cuestionario.</p>","eXeIdeviceTextAfter":"","msgs":{"msgStartGame":"Pulsa aquí para empezar","msgTime":"Tiempo por pregunta","msgNoImage":"Pregunta sin imágenes","msgScoreScorm":"La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.","msgEndGameScore":"Comience la partida antes de guardar la puntuación.","msgOnlySaveScore":"¡Solo puede guardar la puntuación una vez!","msgOnlySave":"Solo puede guardar una vez","msgYouScore":"Su puntuación","msgAuthor":"Autoría","msgOnlySaveAuto":"Su puntuación se guardará después de cada pregunta. Solo puede jugar una vez.","msgSaveAuto":"Su puntuación se guardará automáticamente después de cada pregunta.","msgSeveralScore":"Puede guardar la puntuación tantas veces como quiera","msgYouLastScore":"La última puntuación guardada es","msgActityComply":"Ya ha realizado esta actividad.","msgPlaySeveralTimes":"Puede realizar esta actividad cuantas veces quiera","msgUncompletedActivity":"Actividad no completada","msgSuccessfulActivity":"Actividad superada. Puntuación: %s","msgUnsuccessfulActivity":"Actividad no superada. Puntuación: %s","msgTypeGame":"Verdadero o falso","msgFeedback":"Retroalimentación","msgSuggestion":"Sugerencia","msgSolution":"Solución","msgQuestion":"Pregunta","msgTrue":"Verdadero","msgFalse":"Falso","msgOk":"Correcto","msgKO":"Incorrecto","msgShow":"Mostrar","msgHide":"Ocultar","msgCheck":"Comprobar","msgReboot":"¡Prueba otra vez!","msgScore":"Puntuación","msgWeight":"Peso","msgNext":"Siguiente","msgPrevious":"Anterior"},"questionsRandom":false,"percentageQuestions":100,"isTest":false,"time":0,"questionsGame":[{"question":"<p>1. ¿El nombre de la niña era Mara?</p>","feedback":"","suggestion":"","solution":0},{"question":"<p>2. ¿A la niña le daban miedo los monstruos?</p>","feedback":"","suggestion":"","solution":1},{"question":"<p>3. ¿La niña miraba por la ventana en las noches oscuras?</p>","feedback":"","suggestion":"","solution":1},{"question":"<p>4. ¿Su abuelo le decía: Martina, no te preocupes ¡YO MATARÉ MONSTRUOS POR TI! </p>","feedback":"","suggestion":"","solution":0}],"isScorm":0,"textButtonScorm":"Guardar la puntuación","repeatActivity":true,"weighted":100,"evaluation":false,"evaluationID":"","showSlider":false,"ideviceId":"idevice-1779364456974-d5ondqfm1"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779361662120-8g5riq53n</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>3. PRODUCTO FINAL</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. PRODUCTO FINAL</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779361662120-8g5riq53n</odePageId>
+      <odeBlockId>block-1779365034365-1dicfouql</odeBlockId>
+      <blockName>PRODUCTO FINAL</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779361662120-8g5riq53n</odePageId>
+          <odeBlockId>block-1779365034365-1dicfouql</odeBlockId>
+          <odeIdeviceId>idevice-1779365034362-utfmo85nb</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>🎨📚 ¡Vamos a crear nuestro propio libro de emociones! 📚🎨<br />Producto final de nuestra aventura emocional</p>
+<p><br />💡 ¿Te imaginas hacer tu propio libro con juegos y actividades sobre el miedo y otras emociones? Pues eso es justo lo que vamos a hacer juntos. Al final de esta Situación de Aprendizaje (SdA), crearemos un libro, fichero o dosier muy especial, donde tú serás el autor o autora. ✍️📘</p>
+<p>Este libro estará lleno de actividades que tú y tus compañeros habréis creado, ¡con vuestras manos, vuestra imaginación y vuestro corazón! ❤️👦🏻👧🏽</p>
+<p><br />¿Qué vas a hacer tú?<br />Cada uno de vosotros y vosotras va a elegir una actividad relacionada con el cuento "Yo también mataré monstruos por ti". Algunas ideas son:</p>
+<p>🧩 Un puzzle con los personajes del cuento<br />🧠 Un juego de memoria de emociones<br />🔤 Tarjetas con vocabulario de sentimientos<br />🎨 Una lámina para colorear que represente el miedo o cómo vencerlo<br />💬 Un mini cómic con un monstruo valiente<br />🎲 Un dado de emociones para jugar en clase</p>
+<p><br />¿Cómo lo haremos?<br />✨ Vamos a usar una herramienta digital muy divertida y fácil de usar: Canva.<br />Con Canva podrás crear tu actividad de forma sencilla, con muchos colores, formas, imágenes y textos. ¡Será como jugar mientras creas!</p>
+<p><br />🚀 Pasos para crear tu actividad:<br />Primero: Trabajaremos en grupos en clase, para aprender a usar Canva y resolver dudas.<br />Después: Elegirás qué tipo de actividad quieres crear (tendrás una lista de ideas y modelos).<br />Luego: Con ayuda de las plantillas que te daremos, crearás tu actividad en Canva.<br />Finalmente: Guardaremos todas las actividades en un único dosier, que compartiremos con los profes para que podamos usarlas todos en nuestras estaciones de aprendizaje. 🗂️💫</p>
+<p>🌍 ¿Dónde estará nuestro libro final?<br />Todo el dosier estará en una carpeta especial de Google Drive, para que los equipos docentes puedan consultarlo y para que ¡vosotros lo tengáis como recuerdo de todo lo que habéis aprendido y creado!</p>
+<p><br />🧡✨ Con este libro aprenderemos a expresar, entender y compartir nuestras emociones, y lo haremos juntos, como un gran equipo de pequeños héroes y heroínas emocionales. ✨🧡</p>
+<p><br />🎁 ¿Preparados para crear algo único y vuestro?<br />¡Manos a la obra, artistas de las emociones! 🎨📖👣</p>
+<p><br /></p>
+<p>A continuación os dejo enlace, de una infografía para poder acceder y consultar, que os servirá de utilidad para la elaboración de vuestro producto final, teniendo en cuenta la protección de datos y licencias.</p>
+<p><a href="https://drive.google.com/file/d/1JsfOSoj4WuAh1tQ81ajNnP4zC8wYT5mA/view?usp=sharing">https://drive.google.com/file/d/1JsfOSoj4WuAh1tQ81ajNnP4zC8wYT5mA/view?usp=sharing</a></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779365034362-utfmo85nb","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>🎨📚 ¡Vamos a crear nuestro propio libro de emociones! 📚🎨<br />Producto final de nuestra aventura emocional</p>\n<p><br />💡 ¿Te imaginas hacer tu propio libro con juegos y actividades sobre el miedo y otras emociones? Pues eso es justo lo que vamos a hacer juntos. Al final de esta Situación de Aprendizaje (SdA), crearemos un libro, fichero o dosier muy especial, donde tú serás el autor o autora. ✍️📘</p>\n<p>Este libro estará lleno de actividades que tú y tus compañeros habréis creado, ¡con vuestras manos, vuestra imaginación y vuestro corazón! ❤️👦🏻👧🏽</p>\n<p><br />¿Qué vas a hacer tú?<br />Cada uno de vosotros y vosotras va a elegir una actividad relacionada con el cuento \"Yo también mataré monstruos por ti\". Algunas ideas son:</p>\n<p>🧩 Un puzzle con los personajes del cuento<br />🧠 Un juego de memoria de emociones<br />🔤 Tarjetas con vocabulario de sentimientos<br />🎨 Una lámina para colorear que represente el miedo o cómo vencerlo<br />💬 Un mini cómic con un monstruo valiente<br />🎲 Un dado de emociones para jugar en clase</p>\n<p><br />¿Cómo lo haremos?<br />✨ Vamos a usar una herramienta digital muy divertida y fácil de usar: Canva.<br />Con Canva podrás crear tu actividad de forma sencilla, con muchos colores, formas, imágenes y textos. ¡Será como jugar mientras creas!</p>\n<p><br />🚀 Pasos para crear tu actividad:<br />Primero: Trabajaremos en grupos en clase, para aprender a usar Canva y resolver dudas.<br />Después: Elegirás qué tipo de actividad quieres crear (tendrás una lista de ideas y modelos).<br />Luego: Con ayuda de las plantillas que te daremos, crearás tu actividad en Canva.<br />Finalmente: Guardaremos todas las actividades en un único dosier, que compartiremos con los profes para que podamos usarlas todos en nuestras estaciones de aprendizaje. 🗂️💫</p>\n<p>🌍 ¿Dónde estará nuestro libro final?<br />Todo el dosier estará en una carpeta especial de Google Drive, para que los equipos docentes puedan consultarlo y para que ¡vosotros lo tengáis como recuerdo de todo lo que habéis aprendido y creado!</p>\n<p><br />🧡✨ Con este libro aprenderemos a expresar, entender y compartir nuestras emociones, y lo haremos juntos, como un gran equipo de pequeños héroes y heroínas emocionales. ✨🧡</p>\n<p><br />🎁 ¿Preparados para crear algo único y vuestro?<br />¡Manos a la obra, artistas de las emociones! 🎨📖👣</p>\n<p><br /></p>\n<p>A continuación os dejo enlace, de una infografía para poder acceder y consultar, que os servirá de utilidad para la elaboración de vuestro producto final, teniendo en cuenta la protección de datos y licencias.</p>\n<p><a href=\"https://drive.google.com/file/d/1JsfOSoj4WuAh1tQ81ajNnP4zC8wYT5mA/view?usp=sharing\">https://drive.google.com/file/d/1JsfOSoj4WuAh1tQ81ajNnP4zC8wYT5mA/view?usp=sharing</a></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779361670330-mxn0lpss0</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>4. EVALUACIÓN</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. EVALUACIÓN</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779361670330-mxn0lpss0</odePageId>
+      <odeBlockId>block-1779365253468-592qhcpts</odeBlockId>
+      <blockName>4. EVALUACIÓN</blockName>
+      <iconName>diary</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779361670330-mxn0lpss0</odePageId>
+          <odeBlockId>block-1779365253468-592qhcpts</odeBlockId>
+          <odeIdeviceId>idevice-1779365253465-g9wbks0o0</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>🎯✨ ¿Cómo sabremos todo lo que has aprendido? ✨🎯<br />📊 ¡La evaluación también forma parte de nuestra aventura!</p>
+<p><br />Durante estas semanas vamos a vivir experiencias increíbles, vamos a aprender sobre emociones, compartir, crear y trabajar en equipo. Pero también es importante saber cómo lo estás haciendo, qué cosas has mejorado y en qué otras te podemos ayudar. 😊💪</p>
+<p>Por eso, usaremos herramientas mágicas de evaluación muy especiales:<br />🔎 Listas de cotejo y 🌟 rúbricas de trabajo en equipo</p>
+<p><br />📋 1. Listas de Cotejo<br />🔹 Son como listas de verificación que nos ayudan a ver paso a paso si estamos cumpliendo nuestros objetivos.<br />🔹 Tendremos dos listas:</p>
+<p>🧑‍🏫 La de la maestra: Evaluará todo tu proceso (cómo participas, cómo te esfuerzas, cómo presentas tu actividad...).<br />📎 Verás la lista aquí: Lista de la seño: <a href="https://docs.google.com/document/d/1T7A96-JvVWLVYpv718-ekwngV6BSRImC/edit?usp=sharing&amp;ouid=105050846415613866425&amp;rtpof=true&amp;sd=true">https://docs.google.com/document/d/1T7A96-JvVWLVYpv718-ekwngV6BSRImC/edit?usp=sharing&amp;ouid=105050846415613866425&amp;rtpof=true&amp;sd=true</a></p>
+<p>👦👧 La del alumnado: Harás una coevaluación, es decir, podrás valorar el trabajo de tus compañeros/as con respeto y cariño.<br />📎 Aquí está la tuya: Lista del Alumnado <a href="https://docs.google.com/document/d/16U_Qv3zfd1jgVzCuqGfi4X9FshoLm6BR/edit?usp=drive_link&amp;ouid=105050846415613866425&amp;rtpof=true&amp;sd=true">https://docs.google.com/document/d/16U_Qv3zfd1jgVzCuqGfi4X9FshoLm6BR/edit?usp=drive_link&amp;ouid=105050846415613866425&amp;rtpof=true&amp;sd=true</a></p>
+<p>📝 ¿Qué miraremos en las listas?<br />✅ ¿Participaste activamente?<br />✅ ¿Colaboraste con tu grupo?<br />✅ ¿Mostraste respeto por los demás?<br />✅ ¿Te esforzaste al crear tu actividad?<br />✅ ¿Cumpliste con los tiempos?</p>
+<p>Y no te preocupes, todo se explicará con cariño y te daremos consejos para seguir aprendiendo. 💌</p>
+<p><br />🤝 2. Rúbrica de Trabajo en Equipo<br />👨‍👩‍👧‍👦 El trabajo en grupo es muy importante en este proyecto.<br />Por eso, la maestra usará una rúbrica especial para observar cómo trabajáis juntos y cómo resolvéis los retos como un verdadero equipo. 🧠💬💖</p>
+<p>📎 Puedes ver el modelo aquí: Rubrica Trabajo Grupo</p>
+<p><a href="https://docs.google.com/document/d/1V8K0Zkg5cJDtYuCRu_fHVuklgDwxr17y/edit?usp=drive_link&amp;ouid=105050846415613866425&amp;rtpof=true&amp;sd=true">https://docs.google.com/document/d/1V8K0Zkg5cJDtYuCRu_fHVuklgDwxr17y/edit?usp=drive_link&amp;ouid=105050846415613866425&amp;rtpof=true&amp;sd=true</a></p>
+<p>✍️ Durante el proyecto, la maestra irá apuntando en su diario de clase cómo os desenvolvéis, cómo os ayudáis entre vosotros, si respetáis los turnos de palabra, si os escucháis… ¡todo cuenta!</p>
+<p><br />🎁 ¿Qué ventajas tiene esta forma de evaluar?<br />🌈 Sabes qué se espera de ti desde el principio<br />👓 Es clara y justa<br />💬 Te ayuda a mejorar con consejos útiles<br />💖 Reconoce tu esfuerzo y tus logros</p>
+<p> </p>
+<p>📣 Recuerda:<br />¡No se trata solo de hacerlo perfecto! Lo importante es aprender, intentarlo con ganas y crecer juntos como grupo.<br />👏 ¡Y tú eres una parte muy importante de este viaje!</p>
+<p>🧭 ¡Juntos aprendemos, creamos y evaluamos con el corazón! 💫</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779365253465-g9wbks0o0","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>🎯✨ ¿Cómo sabremos todo lo que has aprendido? ✨🎯<br />📊 ¡La evaluación también forma parte de nuestra aventura!</p>\n<p><br />Durante estas semanas vamos a vivir experiencias increíbles, vamos a aprender sobre emociones, compartir, crear y trabajar en equipo. Pero también es importante saber cómo lo estás haciendo, qué cosas has mejorado y en qué otras te podemos ayudar. 😊💪</p>\n<p>Por eso, usaremos herramientas mágicas de evaluación muy especiales:<br />🔎 Listas de cotejo y 🌟 rúbricas de trabajo en equipo</p>\n<p><br />📋 1. Listas de Cotejo<br />🔹 Son como listas de verificación que nos ayudan a ver paso a paso si estamos cumpliendo nuestros objetivos.<br />🔹 Tendremos dos listas:</p>\n<p>🧑‍🏫 La de la maestra: Evaluará todo tu proceso (cómo participas, cómo te esfuerzas, cómo presentas tu actividad...).<br />📎 Verás la lista aquí: Lista de la seño: <a href=\"https://docs.google.com/document/d/1T7A96-JvVWLVYpv718-ekwngV6BSRImC/edit?usp=sharing&amp;ouid=105050846415613866425&amp;rtpof=true&amp;sd=true\">https://docs.google.com/document/d/1T7A96-JvVWLVYpv718-ekwngV6BSRImC/edit?usp=sharing&amp;ouid=105050846415613866425&amp;rtpof=true&amp;sd=true</a></p>\n<p>👦👧 La del alumnado: Harás una coevaluación, es decir, podrás valorar el trabajo de tus compañeros/as con respeto y cariño.<br />📎 Aquí está la tuya: Lista del Alumnado <a href=\"https://docs.google.com/document/d/16U_Qv3zfd1jgVzCuqGfi4X9FshoLm6BR/edit?usp=drive_link&amp;ouid=105050846415613866425&amp;rtpof=true&amp;sd=true\">https://docs.google.com/document/d/16U_Qv3zfd1jgVzCuqGfi4X9FshoLm6BR/edit?usp=drive_link&amp;ouid=105050846415613866425&amp;rtpof=true&amp;sd=true</a></p>\n<p>📝 ¿Qué miraremos en las listas?<br />✅ ¿Participaste activamente?<br />✅ ¿Colaboraste con tu grupo?<br />✅ ¿Mostraste respeto por los demás?<br />✅ ¿Te esforzaste al crear tu actividad?<br />✅ ¿Cumpliste con los tiempos?</p>\n<p>Y no te preocupes, todo se explicará con cariño y te daremos consejos para seguir aprendiendo. 💌</p>\n<p><br />🤝 2. Rúbrica de Trabajo en Equipo<br />👨‍👩‍👧‍👦 El trabajo en grupo es muy importante en este proyecto.<br />Por eso, la maestra usará una rúbrica especial para observar cómo trabajáis juntos y cómo resolvéis los retos como un verdadero equipo. 🧠💬💖</p>\n<p>📎 Puedes ver el modelo aquí: Rubrica Trabajo Grupo</p>\n<p><a href=\"https://docs.google.com/document/d/1V8K0Zkg5cJDtYuCRu_fHVuklgDwxr17y/edit?usp=drive_link&amp;ouid=105050846415613866425&amp;rtpof=true&amp;sd=true\">https://docs.google.com/document/d/1V8K0Zkg5cJDtYuCRu_fHVuklgDwxr17y/edit?usp=drive_link&amp;ouid=105050846415613866425&amp;rtpof=true&amp;sd=true</a></p>\n<p>✍️ Durante el proyecto, la maestra irá apuntando en su diario de clase cómo os desenvolvéis, cómo os ayudáis entre vosotros, si respetáis los turnos de palabra, si os escucháis… ¡todo cuenta!</p>\n<p><br />🎁 ¿Qué ventajas tiene esta forma de evaluar?<br />🌈 Sabes qué se espera de ti desde el principio<br />👓 Es clara y justa<br />💬 Te ayuda a mejorar con consejos útiles<br />💖 Reconoce tu esfuerzo y tus logros</p>\n<p> </p>\n<p>📣 Recuerda:<br />¡No se trata solo de hacerlo perfecto! Lo importante es aprender, intentarlo con ganas y crecer juntos como grupo.<br />👏 ¡Y tú eres una parte muy importante de este viaje!</p>\n<p>🧭 ¡Juntos aprendemos, creamos y evaluamos con el corazón! 💫</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779365660155-96pimnxvx</odePageId>
+  <odeParentPageId>page-1779361670330-mxn0lpss0</odeParentPageId>
+  <pageName>ESQUEMA VISUAL DE EVALUACIÓN</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>ESQUEMA VISUAL DE EVALUACIÓN</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779365660155-96pimnxvx</odePageId>
+      <odeBlockId>block-1779367093740-f9nulkg17</odeBlockId>
+      <blockName>ESQUEMA VISUAL EVALUACIÓN</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779365660155-96pimnxvx</odePageId>
+          <odeBlockId>block-1779367093740-f9nulkg17</odeBlockId>
+          <odeIdeviceId>idevice-1779367093731-ht60olo9t</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1779367093731-ht60olo9t" title="" href="{{context_path}}/content/resources/Captura de pantalla 2026-05-21 a las 14.38.05.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Captura de pantalla 2026-05-21 a las 14.38.05.png" height="128" width="128" title="" alt="" titlelink="" author="Carmen Rodríguez Mellado" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779367093731-ht60olo9t","img_0":{"img":"{{context_path}}/content/resources/Captura de pantalla 2026-05-21 a las 14.38.05.png","thumbnail":"{{context_path}}/content/resources/Captura de pantalla 2026-05-21 a las 14.38.05.png","title":"","linktitle":"","author":"Carmen Rodríguez Mellado","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779361690318-mdd4mr2yq</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>5. GUÍA DIDÁCTICA</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779361690318-mdd4mr2yq</odePageId>
+      <odeBlockId>block-1779367352718-6yxm31uyx</odeBlockId>
+      <blockName>GUÍA DIDÁCTICA</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779361690318-mdd4mr2yq</odePageId>
+          <odeBlockId>block-1779367352718-6yxm31uyx</odeBlockId>
+          <odeIdeviceId>idevice-1779367352717-v4zez65ns</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1779367352717-v4zez65ns" title="" href="{{context_path}}/content/resources/Captura de pantalla 2026-05-21 a las 14.41.49.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Captura de pantalla 2026-05-21 a las 14.41.49.png" height="128" width="128" title="" alt="" titlelink="" author="Carmen Rodríguez Mellado" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779367352717-v4zez65ns","img_0":{"img":"{{context_path}}/content/resources/Captura de pantalla 2026-05-21 a las 14.41.49.png","thumbnail":"{{context_path}}/content/resources/Captura de pantalla 2026-05-21 a las 14.41.49.png","title":"","linktitle":"","author":"Carmen Rodríguez Mellado","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1779361690318-mdd4mr2yq</odePageId>
+      <odeBlockId>block-1779367391466-0jrg6n23l</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779361690318-mdd4mr2yq</odePageId>
+          <odeBlockId>block-1779367391466-0jrg6n23l</odeBlockId>
+          <odeIdeviceId>idevice-1779367391465-55ex0pp7j</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>TABLA DE RELACIÓN ENTRE TAREAS Y CRITERIOS DE EVALUACIÓN</p>
+<p><img src="{{context_path}}/content/resources/Captura de pantalla 2026-05-21 a las 14.45.31.png" width="1138" height="1034" alt="" /></p>
+<p></p>
+<p>Reflexión sobre adaptaciones DUA<br />Para garantizar la participación y el aprendizaje de todo el alumnado, se han aplicado los principios del Diseño Universal para el Aprendizaje (DUA). Estos principios promueven múltiples formas de representación, expresión y compromiso, asegurando la inclusión de todos los estudiantes, independientemente de sus necesidades o estilos de aprendizaje.</p>
+<p>Se han planteado actividades variadas: desde puzles y juegos de memoria hasta actividades de lectura, expresión oral y creación de contenidos digitales. Estas actividades permiten la flexibilidad en el modo de acceso, creación y expresión de los aprendizajes.</p>
+<p>La propuesta metodológica se basa en estaciones de aprendizaje y trabajo colaborativo, lo que favorece la participación activa del alumnado, el respeto a los turnos, la escucha activa y el desarrollo de habilidades sociales.</p>
+<p>Además, se ha tenido en cuenta la inclusión de una alumna con TDAH, para la cual se han adaptado materiales con apoyos visuales, instrucciones claras, tiempos ajustados y tareas breves y estructuradas. Se favorece también el trabajo en grupos pequeños para fomentar su atención y autonomía.</p>
+<p>La herramienta Canva ha sido elegida por su carácter intuitivo, visual y accesible, permitiendo que cada alumno/a cree su producto de forma personalizada. La clase trabajará en pequeños grupos para familiarizarse con esta herramienta antes de la creación individual, garantizando así la equidad en el acceso digital y la autonomía progresiva.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779367391465-55ex0pp7j","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>TABLA DE RELACIÓN ENTRE TAREAS Y CRITERIOS DE EVALUACIÓN</p>\n<p><img src=\"{{context_path}}/content/resources/Captura de pantalla 2026-05-21 a las 14.45.31.png\" width=\"1138\" height=\"1034\" alt=\"\" /></p>\n<p></p>\n<p>Reflexión sobre adaptaciones DUA<br />Para garantizar la participación y el aprendizaje de todo el alumnado, se han aplicado los principios del Diseño Universal para el Aprendizaje (DUA). Estos principios promueven múltiples formas de representación, expresión y compromiso, asegurando la inclusión de todos los estudiantes, independientemente de sus necesidades o estilos de aprendizaje.</p>\n<p>Se han planteado actividades variadas: desde puzles y juegos de memoria hasta actividades de lectura, expresión oral y creación de contenidos digitales. Estas actividades permiten la flexibilidad en el modo de acceso, creación y expresión de los aprendizajes.</p>\n<p>La propuesta metodológica se basa en estaciones de aprendizaje y trabajo colaborativo, lo que favorece la participación activa del alumnado, el respeto a los turnos, la escucha activa y el desarrollo de habilidades sociales.</p>\n<p>Además, se ha tenido en cuenta la inclusión de una alumna con TDAH, para la cual se han adaptado materiales con apoyos visuales, instrucciones claras, tiempos ajustados y tareas breves y estructuradas. Se favorece también el trabajo en grupos pequeños para fomentar su atención y autonomía.</p>\n<p>La herramienta Canva ha sido elegida por su carácter intuitivo, visual y accesible, permitiendo que cada alumno/a cree su producto de forma personalizada. La clase trabajará en pequeños grupos para familiarizarse con esta herramienta antes de la creación individual, garantizando así la equidad en el acceso digital y la autonomía progresiva.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779361699239-7u60kufgl</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>6. CRÉDITOS</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. CRÉDITOS</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779361699239-7u60kufgl</odePageId>
+      <odeBlockId>block-1779390000691-6b0ix09mg</odeBlockId>
+      <blockName>6. CRÉDITOS</blockName>
+      <iconName>alert</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779361699239-7u60kufgl</odePageId>
+          <odeBlockId>block-1779390000691-6b0ix09mg</odeBlockId>
+          <odeIdeviceId>idevice-1779390000688-p8fuw2hbz</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">PROYECTO FINAL</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">En este proyecto descubriremos cómo se sienten los personajes de distintos cuentos y aprenderemos a reconocer, expresar y comprender nuestras emociones a través de la lectura, el juego y actividades creativas. Trabajaremos juntos para desarrollar la empatía, la comunicación y el respeto hacia los demás.</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Carmen Rodríguez Mellado</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
